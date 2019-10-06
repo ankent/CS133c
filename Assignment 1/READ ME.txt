@@ -1,0 +1,1 @@
+Assignment 1 is asking me to list all primitive data types. I followed along in classs and found the others here https://www.studytonight.com/c/datatype-in-c.php/
