@@ -1,0 +1,48 @@
+Assignment 2 Pseudocode.
+Ann Kent
+
+int answer;
+ing guess;
+int again;
+
+printf("Please enter a number between 1-100\n");
+scanf(&answer);
+printf("Thank you. Player 2, you may begin guessing\n");
+
+If( answer= guess)
+{
+  printf{"Congrats! you got it!");
+  printf{play again? \n");
+  prinf("1 for yes, 2 for no");
+  scanf(&again);
+	if( again= 1);
+	{
+	Some how loop game??
+	}
+	else{
+	end;
+	}
+
+}
+
+
+Ask for user input [x]
+indicate the range [x]
+tell the user how mang guess they have left[x]
+aask for guess[x]
+tell user if too high or too low [x]
+changed the range[x]
+Tell the user if they ran out of guesses or got the right number[x]
+tell the second user what their cloest guess was []
+let the user play again[x]
+
+
+I was unable to figure out how to tell the player 2 what their closest guess was.
+
+
+
+
+
+
+
+
